@@ -1,4 +1,4 @@
-# Aplicación hilos Java  demuestra los procesos que se hacen con la clase Thread  
+# Aplicación Java demuestra los procesos (hilos) que se hacen con la clase Thread  
 Integrantes del proyecto
 * Dayan Fernando Fernandez Pacho 
 * Jair Rodriguez
